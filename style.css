@@ -1,0 +1,27 @@
+h1 {
+	color: #fefcfd;
+	font-family:georgia ;
+	background-color: #7bc5ee;
+	border: 2px dashed #fefcfd;
+	padding: 10px;
+}
+
+h2 {
+	color: #fefcfd;
+	font-family: georgia;
+}
+
+p {
+	color: #fefcfd;
+	font-family: georgia;
+}
+
+body {
+	background-color: #bddeec;
+}
+
+img {
+	width: 40%;
+	height: 40%;
+	margin-left: 100px;
+}
